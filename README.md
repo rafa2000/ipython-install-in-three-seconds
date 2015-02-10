@@ -2,10 +2,12 @@
 
 ``` bash
 # These commented instruction are needed to install Python and virtualenv. 
-# The last instruction (uncommented) is all that you need to install
-# Ipython, plus the Pipfile.
-# Install Python
-# Install disttools
+# The last instruction (uncommented), plus the PipFile,  is all that you need
+# to install Ipython if you are not using a virtual environment.
+# (Polish this instructions).
+#
+# Install Python...
+# Install disttools...
 # Install virtualenv
 #    pip install virtualenv
 # Create a virtualenv
