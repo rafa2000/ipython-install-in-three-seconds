@@ -16,6 +16,13 @@
 #    source venv/bin/activate
 # Install dependencies for IPython
 pip install -r Pipfile
+# Invoke Ipython notebook
+ipython notebook
+# or invoke Ipython with pylab (scipy + graphs)
+ipython --pylab notebook
+# + work in ipython
+# + save your notebooks
+# + exit IPython
 # Exit from the virtualenv
 #   deactivate
 ```
